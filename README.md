@@ -1,4 +1,4 @@
-Statamic slabext Plugin
+Statamic slabText Plugin
 =======================
 
 The slabText plugin enables you to predefine the word combinations used when
