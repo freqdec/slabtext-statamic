@@ -16,11 +16,17 @@ within the `/_add-ons/` folder.
 
     <h2><a href="{{ url }}">{{ slabtext title="{{ title }}" }}</a></h2>
 
-### Parameters
+## Parameters
 
-#### Delimiter `delim`
+### Delimiter `delim`
 **Default:** |
 
 The delimiter to use when splitting the text
 
     delim="^"
+    
+## Notes
+
+Remember to actually add the `slabtext.js` file to your template and call the
+`$.slabText` method to initiate the script as described in
+[the demo page](http://www.frequency-decoder.com/demo/slabText/).
