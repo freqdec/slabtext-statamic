@@ -18,6 +18,12 @@ within the `/_add-ons/` folder.
 
 ## Parameters
 
+### Title `title`
+
+The text to be given the slabtext treatment
+
+    title="{{ title }}"
+
 ### Delimiter `delim`
 **Default:** |
 
